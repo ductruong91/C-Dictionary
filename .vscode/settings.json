@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "dcallback.h": "c",
+        "btree.h": "c",
+        "gtk.h": "c",
+        "gtkcolorutils.h": "c",
+        "gtkstringlist.h": "c",
+        "gtkcss.h": "c",
+        "stdlib.h": "c",
+        "gtkaccelgroup.h": "c",
+        "gtkaccessible.h": "c",
+        "gtkactionbar.h": "c",
+        "gtkadjustment.h": "c",
+        "gtkappchooser.h": "c",
+        "gtkappchooserdialog.h": "c",
+        "gtkdroptarget.h": "c",
+        "gtkdropcontrollermotion.h": "c",
+        "gtkeventcontroller.h": "c",
+        "soundex.h": "c"
+    }
+}
